@@ -1,0 +1,22 @@
+{
+  "name": "1337name",
+  "version": "1.0.0",
+  "description": "Get a Hacker Name for yourself ! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theinfosecguy/get-hacker-name.git"
+  },
+  "bin": {
+    "hackername": "./bin/get_name.js"
+  },
+  "preferGlobal": true,
+  "author": "Keshav Malik",
+  "bugs": {
+    "url": "https://github.com/theinfosecguy/get-hacker-name/issues"
+  },
+  "homepage": "https://github.com/theinfosecguy/get-hacker-name#readme"
+}

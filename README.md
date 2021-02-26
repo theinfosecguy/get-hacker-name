@@ -5,6 +5,8 @@ My first Node Module !
 
 ![](https://img.shields.io/badge/license-MIT-blue)
 ![](https://img.shields.io/npm/v/1337name?style=plastic)
+![](https://img.shields.io/npm/dw/1337name?color=blue&style=plastic)
+![](https://img.shields.io/badge/PR's-Welcome-blue)
 
 ## Installation
 
